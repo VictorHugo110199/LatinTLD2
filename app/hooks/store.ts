@@ -1,10 +1,10 @@
 import { configureStore, type ThunkAction, type Action } from '@reduxjs/toolkit';
-import counter from '~/reducers/counterSlice';
+import aside from '~/reducers/asideSlice';
 
 // INSERT REDUCERS HERE
 export const store = configureStore({
   reducer: {
-    counter,
+    aside,
   },
 });
 
