@@ -30,7 +30,7 @@ export default function App() {
         <meta property="og:image:height" content="627" />
         <meta
           property="og:author"
-          content="Dev: Frederico BC."
+          content="Dev: VictorHugo110199."
         />
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width,initial-scale=1" />
@@ -42,7 +42,7 @@ export default function App() {
           name="description"
           content="Template of description"
         />
-        <meta name="author" content="Dev: Frederico BC" />
+        <meta name="author" content="Dev: VictorHugo110199" />
         <Meta />
         <Links />
       </head>

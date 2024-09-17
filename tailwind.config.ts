@@ -45,6 +45,10 @@ export default {
           background: '#3b3288',
           button: '#caa84a',
         },
+        blue:{
+          background: '#222831',
+        },
+        yellow: '#e7ebb0',
       },
     },
   },
