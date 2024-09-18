@@ -15,7 +15,7 @@ const Section: React.FC<SectionProps> = ({ children, spaceBottom }) => {
     };
 
     return (
-        <section className='w-full justify-center flex border-b-4 border-yellow bg-blue-background'>
+        <section className='w-full justify-center flex border-b-2 border-yellow bg-blue-background'>
             <div className="w-full max-w-screen-xl p-5 items-center justify-between" style={sectionStyle}>
                 {children}
             </div>
